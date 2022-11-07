@@ -8,7 +8,7 @@
 	    "email": "septia@gmail.com",
 	    "alamat" : "jl. testing saja",
 	    "expenditure" : 1000000
-	    "expenditure_data" : "11/7/2022"
+	    "expenditure_date" : "11/7/2022"
 	    "expenditure_time" : "10.00"
           }
           {
@@ -17,7 +17,7 @@
 	    "email": "dirga@gmail.com",
 	    "alamat" : "jl. testing saja2",
 	    "expenditure" : 10000000
-	    "expenditure_data" : "11/7/2022"
+	    "expenditure_date" : "11/7/2022"
 	    "expenditure_time" : "13.00"
           }
           {
@@ -26,7 +26,7 @@
 	    "email": "rifky@gmail.com",
 	    "alamat" : "jl. testing saja 3",
 	    "expenditure" : 5000000
-	    "expenditure_data" : "10/7/2022"
+	    "expenditure_date" : "10/7/2022"
 	    "expenditure_time" : "12.00"
           }
         ]
